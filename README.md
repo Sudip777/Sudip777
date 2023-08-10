@@ -7,21 +7,25 @@
 <h3 align="center">A passionate software developer from Nepal.</h3>
 
 <br/>
-
-<div align="center">
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip777&label=Profile%20views&color=0e75b6&style=flat" alt="sudip777" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sudipparajuli10" target="blank"><img src="https://img.shields.io/twitter/follow/sudipparajuli10?logo=twitter&style=for-the-badge" alt="sudipparajuli10" /></a> </p>
  
- 
- 🌱 I’m currently learning **JavaScript | ASP .NET **
+ <div align="left">
+     
+  🌱 I’m currently learning **JavaScript | ASP .NET **
 
+     
  💬 Ask me about **JavaScript **
 
- ⚡ Fun fact **The term "bug" came from a real moth in a computer.**
+ 
+ ⚡ Fun fact **Code is like humor. When you have to explain it, it's bad." - Cory House**
+
+     
+ </div>
+ 
  
  </div>
  
@@ -56,7 +60,7 @@
 <div align="center">
   <h2> My Contributions </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sudip777/sudip/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sudip777/sudip777/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
