@@ -1,81 +1,80 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sudip+Parajuli!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Sudip+Parajuli!" />
 </h1>
 
-<h3 align="center">Full-Stack Software Developer | Building Scalable Web Solutions</h3>
+<h3 align="center">Full-Stack .NET Developer | Building Scalable Web Solutions</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudip777&label=Profile%20views&color=0e75b6&style=flat" alt="sudip777" />
-  <a href="https://twitter.com/sudipparajuli10" target="blank">
-    <img src="https://img.shields.io/twitter/follow/sudipparajuli10?logo=twitter&style=for-the-badge" alt="sudipparajuli10" />
+  <img src="https://komarev.com/ghpvc/?username=sudip777&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://twitter.com/sudipparajuli10" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/sudipparajuli10?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 👨‍💻 About Me
+I'm a passionate full-stack developer from Nepal, specializing in **ASP.NET Core**, **React.js/Next.js**, and building **scalable, high-performance web applications**.  
 
-I'm a passionate full-stack developer from Nepal, specializing in building robust web applications with modern technologies. I love architecting scalable solutions and exploring new frameworks.
+- Working with **ASP.NET Core**, **React.js**, and **TypeScript**
+- Implementing **Clean Architecture** and **Domain Driven Design**
+- Focused on **performance optimization**, **best practices**, and **Clean Code**
+- Continuously learning new frameworks and libraries
 
-- 🔭 Currently working with **ASP.NET Core** and **Next JS**
-- 🌱 Exploring **Clean Architecture** patterns and **Domain Driven Design**
-- 📚 Love to read and continuously learning 
-- 💡 Passionate about **performance optimization** and **best practices** and **Clean Code**
-
-<br/>
-
-> 💹 *"An investment in knowledge always pays the best interest."*  
-> **— The Pragmatic Programmer**
+> *"An investment in knowledge always pays the best interest."* — The Pragmatic Programmer
 
 <br clear="right"/>
 
 ### 🌐 Connect With Me
-
 <div align="center">
   <a href="mailto:sudipparajuli06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/sudip-parajuli-18346a1b1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://sudipparajuli.com.np/#portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
-<hr/>
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend Development
 <p align="left">
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
+  </a>
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
   </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-  </a>
+ 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
   </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  </a>
+  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/shadcnui"
+       alt="shadcn ui"
+       width="45"
+       height="45"/>
+</a>
+
+
 </p>
 
 ### Backend Development
@@ -85,6 +84,9 @@ I'm a passionate full-stack developer from Nepal, specializing in building robus
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="45" height="45"/>
+  </a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
@@ -96,47 +98,88 @@ I'm a passionate full-stack developer from Nepal, specializing in building robus
 
 ### Database & ORM
 <p align="left">
+  <!-- MSSQL -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45"/>
   </a>
+
+  <!-- Dapper -->
+  <a href="https://github.com/DapperLib/Dapper" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Dapper-ORM-blue?style=for-the-badge" alt="Dapper"/>
+  </a>
+
+  <!-- EF Core -->
+  <a href="https://learn.microsoft.com/ef/core/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/entityframeworkcore/entityframeworkcore-original.svg" alt="EF Core" width="45" height="45"/>
+  </a>
+
+  <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
   </a>
+
+  <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
   </a>
+
+  <!-- Redis -->
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/>
   </a>
+
+  <!-- Drizzle ORM -->
+  <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Drizzle-ORM-black?style=for-the-badge" alt="Drizzle ORM"/>
+  </a>
 </p>
+
 
 ### DevOps & Tools
 <p align="left">
+  <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
   </a>
+
+  <!-- Nginx -->
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
   </a>
+
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
   </a>
+
+  <!-- Postman -->
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
   </a>
+
+  <!-- GitHub Actions -->
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="45" height="45"/>
+  </a>
+
+  <!-- Swagger -->
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/swagger" alt="swagger" width="45" height="45"/>
+  </a>
 </p>
+
 
 <hr/>
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sudip777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
  
-</div>
+</div> -->
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip777&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html" alt="Top Languages" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip777&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html" alt="Top Languages" /> -->
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sudip777&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
