@@ -14,14 +14,10 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 👨‍💻 About Me
-I'm a passionate full-stack developer from Nepal, specializing in **ASP.NET Core**, **React.js/Next.js**, and building **scalable, high-performance web applications**.  
+Full-Stack .NET Developer | Building Scalable, High-Performance Web Apps
+Specializing in ASP.NET Core, React/Next.js, and clean architecture.
 
-- Working with **ASP.NET Core**, **React.js**, and **TypeScript**
-- Implementing **Clean Architecture** and **Domain Driven Design**
-- Focused on **performance optimization**, **best practices**, and **Clean Code**
-- Continuously learning new frameworks and libraries
-
-> *"An investment in knowledge always pays the best interest."* — The Pragmatic Programmer
+> *"An investment in knowledge always pays the best interest."* 
 
 <br clear="right"/>
 
@@ -64,15 +60,6 @@ I'm a passionate full-stack developer from Nepal, specializing in **ASP.NET Core
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
   </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/>
-  </a>
-  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/shadcnui"
-       alt="shadcn ui"
-       width="45"
-       height="45"/>
-</a>
 
 
 </p>
@@ -87,9 +74,6 @@ I'm a passionate full-stack developer from Nepal, specializing in **ASP.NET Core
   </a>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="45" height="45"/>
