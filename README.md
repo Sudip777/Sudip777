@@ -14,10 +14,14 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 👨‍💻 About Me
-Full-Stack .NET Developer | Building Scalable, High-Performance Web Apps
-Specializing in ASP.NET Core, React/Next.js, and clean architecture.
 
-> *"An investment in knowledge always pays the best interest."* 
+Full-Stack .NET Developer specializing in **C#**, **ASP.NET Core**, **React/Next.js**, and clean architecture.
+
+- Currently working on: a large-scale **Analytics Platform** in the US Healthcare domain (insurance & claims) 
+- Also experimenting with: **Blazor**, **Microservices patterns** & **System Design**
+- Ask me about: .NET, EF Core, SQL Server, React
+
+> *"An investment in knowledge always pays the best interest."* — Benjamin Franklin
 
 <br clear="right"/>
 
