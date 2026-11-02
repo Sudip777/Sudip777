@@ -18,7 +18,7 @@
 Full-Stack .NET Developer specializing in **C#**, **ASP.NET Core**, **React/Next.js**, and clean architecture.
 
 - Currently working on: a large-scale **Analytics Platform** in the US Healthcare domain (insurance & claims) 
-- Also experimenting with: **Blazor**, **Microservices patterns** & **System Design**
+- Also experimenting with: **Microservices patterns** & **System Design**
 - Ask me about: .NET, EF Core, SQL Server, React
 
 > *"An investment in knowledge always pays the best interest."* — Benjamin Franklin
